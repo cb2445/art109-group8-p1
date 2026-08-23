@@ -1,0 +1,10 @@
+
+Workflow
+1. Fetch origin before you start working (maybe your partner made changes on the remote). 
+   ~ If there are changes, pull them to update your local files.
+
+2. Create a new branch for your changes
+
+3. When you are done, create a pull request and merge into the main branch. You have to approve the merge on the GitHub website.
+
+4. Delete your branch 
